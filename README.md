@@ -5,4 +5,3 @@ mkdir R
 mkdir SQL
 mv script1.R R/
 mv query1.sql SQL/
-git status
